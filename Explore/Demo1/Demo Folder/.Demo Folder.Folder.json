@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "l4iK3foIjW6itl4pLi5JEk",
-    "name" : "Demo1",
-    "type" : "Project",
+    "id" : "btJO7MMxEq6j4Z4ZV95vof",
+    "name" : "Demo Folder",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "my demo project",
+        "description" : "",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-09-20T19:29:19.135Z",
+  "updateTime" : "2023-09-20T19:29:19.136Z",
   "objectRefs" : [ ]
 }

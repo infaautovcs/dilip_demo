@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3uEIS9EfbK3fN8i2FLk96E",
+    "id" : "3tQzJNj1vaikwsnPTbzqaw",
     "name" : "Mapping2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017AU51700000000000A"
+        "repoHandle" : "017AU51700000000000D"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,12 +17,12 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-20T19:29:19.133Z",
+  "updateTime" : "2023-09-20T19:29:19.132Z",
   "objectRefs" : [ ]
 }
