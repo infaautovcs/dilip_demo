@@ -1,0 +1,68 @@
+{
+  "objectInfo" : {
+    "id" : "2x147ZcNTHeeA0qd6iXnMi",
+    "name" : "ZDT_EXC_LTF_FF_FF",
+    "type" : "WORKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0180KS0N000000000004"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-01-14T05:32:46.292Z",
+  "objectRefs" : [ {
+    "id" : "8UWIrqrcfOciqTLEQlyuM6",
+    "name" : "ZDT_EXC_LTF_DSS_FF_FF",
+    "type" : "DSS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0180KS0I000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_Tasks"
+  }, {
+    "id" : "1KojknSK1BDcHm6b22p9cK",
+    "name" : "ZDT_EXC_LTF_Mapping_Task",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0180KS0Z000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_Tasks"
+  } ]
+}
